@@ -69,7 +69,7 @@ The project demonstrates highly effective waste classification with strong ensem
 
 ## Dataset
 
-**Source**: [Kaggle - Waste Classification Dataset](https://www.kaggle.com/datasets/waste-classification)
+**Source**: [Kaggle - Waste Classification Dataset](https://www.kaggle.com/datasets/techsash/waste-classification-data)
 
 **Classes**: Organic, Recyclable  
 **Size**: ~25,000 images  
@@ -99,8 +99,8 @@ pip install -r requirements.txt
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/sakshammgarg/waste-classification.git
-cd waste-classification
+git clone https://github.com/sakshammgarg/WasteDetection_System.git
+cd WasteDetection_System
 ```
 
 2. **Download the dataset**
