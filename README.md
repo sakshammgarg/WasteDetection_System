@@ -122,19 +122,6 @@ The notebook will:
 6. Generate XAI visualizations (Grad-CAM++, LIME, etc.) for interpretability
 7. Provide model comparison summary and deployment recommendations
 
-## Project Structure
-
-```
-waste-classification/
-│
-├── data/                   # Dataset (download separately)
-├── models/                 # Saved trained models
-├── notebooks/              # Training & analysis notebooks
-├── src/                    # Training and evaluation scripts
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
-```
-
 ## Model Selection Guide
 
 **For Production Deployment:**
